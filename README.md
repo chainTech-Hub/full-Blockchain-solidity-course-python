@@ -17,23 +17,23 @@ Types & Declaring Variables
     address,
     
 
-Comments
+Comments,
 
-Deploying a Contract
+Deploying a Contract,
 
-Visibility
+Visibility,
 
-View & Payable Functions
-Structs
-Intro to Storage
+View & Payable Functions,
+Structs,
+Intro to Storage,
 
-Compiler Errors and Warnings
-Mappings
-SPDX License
-Recap
-Deploying to a "Live" network
-    A testnet or mainnet
-    Find a faucet here
-    Connecting Metamask
-    Interacting with Deployed Contracts
-    The EVM
+Compiler Errors and Warnings,
+Mappings,
+SPDX License,
+Recap,
+Deploying to a "Live" network,
+    A testnet or mainnet,
+    Find a faucet here,
+    Connecting Metamask,
+    Interacting with Deployed Contracts,
+    The EVM,
